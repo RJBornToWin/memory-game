@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/match-the-tile/static/css/main.e6df208e.css",
-    "main.js": "/match-the-tile/static/js/main.7c2238cf.js",
-    "static/js/787.69b12325.chunk.js": "/match-the-tile/static/js/787.69b12325.chunk.js",
-    "index.html": "/match-the-tile/index.html",
-    "main.e6df208e.css.map": "/match-the-tile/static/css/main.e6df208e.css.map",
-    "main.7c2238cf.js.map": "/match-the-tile/static/js/main.7c2238cf.js.map",
-    "787.69b12325.chunk.js.map": "/match-the-tile/static/js/787.69b12325.chunk.js.map"
+    "main.css": "/memory-game/static/css/main.e6df208e.css",
+    "main.js": "/memory-game/static/js/main.0668d75d.js",
+    "static/js/787.69b12325.chunk.js": "/memory-game/static/js/787.69b12325.chunk.js",
+    "index.html": "/memory-game/index.html",
+    "main.e6df208e.css.map": "/memory-game/static/css/main.e6df208e.css.map",
+    "main.0668d75d.js.map": "/memory-game/static/js/main.0668d75d.js.map",
+    "787.69b12325.chunk.js.map": "/memory-game/static/js/787.69b12325.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6df208e.css",
-    "static/js/main.7c2238cf.js"
+    "static/js/main.0668d75d.js"
   ]
 }
